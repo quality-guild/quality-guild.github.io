@@ -1,2 +1,2 @@
-# quality-guild.github.io
-Github Pages for the organization
+# GitHub Pages for the Quality Guild Organization
+
